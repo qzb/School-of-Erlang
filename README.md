@@ -31,3 +31,5 @@ If you want to train more and extend you skill and knowledge try solving followi
 [EX 2.1 gcd](SecondClasses/gcd/README.md)
 
 [EX 2.2 rev_polish_notation](SecondClasses/rev_polish_notation/README.md)
+
+[EX 2.3 quicksort](SecondClasses/quicksort/README.md)
