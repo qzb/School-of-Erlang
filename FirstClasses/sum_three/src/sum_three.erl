@@ -3,4 +3,4 @@
 -export([add_three/3]).
 
 add_three(A, B, C) ->
-    ok.
+    A + B + C.
